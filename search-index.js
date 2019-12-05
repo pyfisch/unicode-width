@@ -1,0 +1,5 @@
+var N=null,E="",T="t",U="u",searchIndex={};
+var R=["Returns the character's displayed width in columns, or…","option","usize","width_cjk","Returns the string's displayed width in columns.","UnicodeWidthChar","UnicodeWidthStr"];
+
+searchIndex["unicode_width"]={"doc":"Determine displayed width of `char` and `str` types…","i":[[17,"UNICODE_VERSION","unicode_width","The version of Unicode that this version of unicode-width…",N,N],[8,R[5],E,"Methods for determining displayed width of Unicode…",N,N],[10,"width",E,R[0],0,[[],[[R[2]],[R[1],[R[2]]]]]],[10,R[3],E,R[0],0,[[],[[R[2]],[R[1],[R[2]]]]]],[8,R[6],E,"Methods for determining displayed width of Unicode strings.",N,N],[10,"width",E,R[4],1,[[["self"]],[R[2]]]],[10,R[3],E,R[4],1,[[["self"]],[R[2]]]]],"p":[[8,R[5]],[8,R[6]]]};
+addSearchOptions(searchIndex);initSearch(searchIndex);
